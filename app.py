@@ -8,4 +8,5 @@ version = server.get_version()
 
 all_jobs = server.get_jobs()
 job_count = server.jobs_count()
+
 print(job_count)
